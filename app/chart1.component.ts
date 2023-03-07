@@ -113,8 +113,8 @@ export class Chart1Component {
             `,
 
             `<div style=' height:30px;width: 30px;color: #000;padding: 10px;margin-top:-45px'>1.3</div><br>
-            <div style=' height:50px;width: 165px;background-color: #ddc4f0;color: #000;padding: 10px;margin: -115% 0% 0% -35%;'>Client calls contact <br>	center to stop payment</div><br/>
-          <div style=' height:80px;width: 165px;background-color: #ddc4f0;color: #000;padding: 10px;margin: -3% 0% 0% -35%;'>Client calls contact <br/>center after notification <br>that payment was <br>unsuccessful</div>`,
+            <div style=' height:50px;width: 165px;background-color: #ddc4f0;color: #000;padding: 10px;margin: -108% 0% 0% -35%;'>Client calls contact <br>	center to stop payment</div><br/>
+          <div style=' height:80px;width: 165px;background-color: #ddc4f0;color: #000;padding: 5px;margin: -3% 0% 0% -35%;'>Client calls contact <br/>center after notification <br>that payment was <br>unsuccessful</div>`,
 
             `</div></div><br/><div style=' height:30px;width: 30px;color: #000;padding: 10px;;margin-top:-50px'>2.0</div>`,
             ``,

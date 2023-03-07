@@ -36,7 +36,7 @@ export class MomentsGridComponent implements OnInit {
       headerName: 'Moments that matter',
       field: 'moments',
       cellClass: 'circle',
-      minWidth: 750,
+      width: 750,
       cellRenderer: this.customActions,
     },
   ];
