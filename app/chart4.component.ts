@@ -27,7 +27,7 @@ export class Chart4Component {
 
   configureTooltipBehavior() {
     Chart.plugins.register({
-      beforeRender: function (chart) {
+      beforeRender: function (chart: any) {
         console.log(chart);
         if (!chart.config.options.showAllTooltips) {
           console.log('show all tips');
@@ -55,7 +55,7 @@ export class Chart4Component {
           chart.options.tooltips.enabled = false;
         }
       },
-      afterDraw: function (chart, easing) {
+      afterDraw: function (chart: any, easing: any) {
         if (!chart.config.options.showAllTooltips) {
           // we don't want the permanent tooltips to animate, so don't do anything till the animation runs atleast once
           if (!chart.allTooltipsOnce) {
