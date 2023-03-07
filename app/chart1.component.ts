@@ -105,7 +105,8 @@ export class Chart1Component {
           // Tooltip Element
           const toolTips = [
             '',
-            `<div style=' height:30px;width: 30px;color: #000;padding: 10px;margin-top:-110%'>3</div>`,
+            `<div style=' height:30px;width: 30px;color: #000;padding: 10px;margin-top:-22%;margin-left:-10%'>3</div><br/>
+            <div style=' height:50px;width: 150px;background-color: #C8F8FE;color: #000;padding: 10px;margin-left:-25%;'><span style="background: green;border-radius: 30px;color: #fff;content: attr(badge);font-size: 11px;min-width: 20px;padding: 2px;position: absolute;text-align: center;margin: 4% 0% 0% -15%;">1</span>Client selects bill <br/>pay Page</div>`,
 
             `<div style='margin-top:-70px; margin-left:65px;width:155px; height: 20px;'></div></div><br/><div style=' height:30px;width: 30px;color: #000;padding: 10px;'>1.8</div>`,
 
