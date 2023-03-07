@@ -106,15 +106,15 @@ export class Chart1Component {
           const toolTips = [
             '',
             `<div style=' height:30px;width: 30px;color: #000;padding: 10px;margin-top:-22%;margin-left:-10%'>3</div><br/>
-            <div style=' height:50px;width: 150px;background-color: #C8F8FE;color: #000;padding: 10px;margin-left:-35%;margin-top:-12%;'>Client selects bill <br/>pay Page</div>`,
+            <div style=' height:50px;width: 150px;background-color: #C8F8FE;color: #000;padding: 10px;margin-left:-35%;margin-top:-12%;'><span style="background: #ffbb00;border-radius: 30px;color: #fff;content: attr(badge);font-size: 11px;min-width: 20px;padding: 2px;position: absolute;text-align: center;margin: 4% 0% 0% -15%;">1</span>Client selects bill <br/>pay Page</div>`,
 
             `<div style='margin-top:-70px; margin-left:65px;width:155px; height: 20px;'></div></div><br/><div style=' height:30px;width: 30px;color: #000;padding: 10px;'>1.8</div><br>
-            <div style=' margin:0% 0 0 -20%;height:80px;width: 150px;background-color: #fce7ce;color: #000;padding: 10px;margin-left:-10%;margin-top:-8%;'>Recurring Payment - <br/>Client enters <br/>payment information <br/>and submits</div>
+            <div style=' margin:0% 0 0 -20%;height:80px;width: 150px;background-color: #fce7ce;color: #000;padding: 10px;margin-left:-10%;margin-top:-8%;'><span style="background: #ffbb00;border-radius: 30px;color: #fff;content: attr(badge);font-size: 11px;min-width: 20px;padding: 2px;position: absolute;text-align: center;margin: 4% 0% 0% -10%;">2</span>Recurring Payment - <br/>Client enters <br/>payment information <br/>and submits</div>
             `,
 
             `<div style=' height:30px;width: 30px;color: #000;padding: 10px;margin-top:-45px'>1.3</div><br>
-            <div style=' height:50px;width: 165px;background-color: #ddc4f0;color: #000;padding: 10px;margin: -108% 0% 0% -35%;'>Client calls contact <br>	center to stop payment</div><br/>
-          <div style=' height:80px;width: 165px;background-color: #ddc4f0;color: #000;padding: 5px;margin: -3% 0% 0% -35%;'>Client calls contact <br/>center after notification <br>that payment was <br>unsuccessful</div>`,
+            <div style=' height:50px;width: 165px;background-color: #ddc4f0;color: #000;padding: 10px;margin: -108% 0% 0% -35%;'><span style="background: #ffbb00;border-radius: 30px;color: #fff;content: attr(badge);font-size: 11px;min-width: 20px;padding: 2px;position: absolute;text-align: center;margin: 4% 0% 0% -14%;">3</span>Client calls contact <br>	center to stop payment</div><br/>
+          <div style=' height:80px;width: 165px;background-color: #ddc4f0;color: #000;padding: 5px;margin: -3% 0% 0% -35%;'><span style="background: #ffbb00;border-radius: 30px;color: #fff;content: attr(badge);font-size: 11px;min-width: 20px;padding: 2px;position: absolute;text-align: center;margin: 4% 0% 0% -12%;">4</span>Client calls contact <br/>center after notification <br>that payment was <br>unsuccessful</div>`,
 
             `</div></div><br/><div style=' height:30px;width: 30px;color: #000;padding: 10px;;margin-top:-50px'>2.0</div>`,
             ``,
