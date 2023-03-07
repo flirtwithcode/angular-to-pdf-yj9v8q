@@ -103,13 +103,13 @@ export class Chart4Component {
             '',
             ``,
 
-            `<div style='margin:-70% 0 0 0; height:50px;width: 150px;background-color: #fce7ce;color: #000;padding: 10px;'>Client account with  <br/biller is linked to BofA <br/> account </div>
+            `<div style='margin:-75% 0 0 0; height:50px;width: 150px;background-color: #fce7ce;color: #000;padding: 10px;'>Client account with  <br/biller is linked to BofA <br/> account </div>
           <br/>
           
          <div style=' height:100px;width:160px;background-color: #fce7ce;color: #000;padding: 10px;'>Client is emailed that <br>eBill pay option has <br>accepted for 
           <br>selected biller</div><br>`,
 
-            `<div style='margin:3% 0 0 0; height:70px;width: 165px;background-color: #ddc4f0;color: #000;padding: 10px;'>Publish confirmation 
+            `<div style='margin: 3% 0 0 0; height:70px;width: 165px;background-color: #ddc4f0;color: #000;padding: 10px;'>Publish confirmation 
           <br> page</div><br/>`,
 
             ``,
